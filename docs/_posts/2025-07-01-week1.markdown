@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Week 1 - Preparing Documentation & Environment Familiarization"
+date:   2025-07-01 09:00:00 +0300
+categories: jekyll update
+---
+
+This week, my focus was on preparing user documentation for both proposals to be hosted on GitHub Pages, and familiarizing myself with the development environment.
+
+I completed the following tasks:
+
+* Created detailed user documentation for both exercise proposals, ready to be published on GitHub Pages.
+* Spent time exploring and getting comfortable with the development environment, tools, and workflows to ensure smooth progress ahead.
+
+### Summary
+
+Below is a brief overview of this week's key activities:
+
+#### User Documentation Preparation
+
+I worked on comprehensive documentation that outlines the objectives, installation instructions, usage guides, and example workflows for each proposal. This will help future users and contributors understand and engage with the projects effectively.
+
+#### Development Environment Familiarization
+
+I took the time to set up the development environment, including IDE configuration, version control workflows, and running initial test builds. This groundwork is essential for efficient coding and collaboration in the weeks to come.
+
+### Goals for Next Week
+
+Next week, I plan to start the initial development tasks for the first exercise proposal, building upon the solid foundation established this week.

@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Week 0 - Preliminary Work & Proposal (TBD)"
+date:   2025-06-24 15:25:13 +0300
+categories: jekyll update
+---
+
+This week, my focus was on planning my contributions for the upcoming internship period and preparing detailed proposals for new exercises.
+
+I completed the following tasks:
+
+* Setup the internship blog using Jekyll and GitHub Pages.
+* Researched and prepared two proposals for new exercises.
+
+### Summary
+
+Below is a quick summary of my initial steps and understanding:
+
+#### Blog Setup
+
+The first step was to create this blog to document my weekly progress. I used a standard **Jekyll** template hosted on **GitHub Pages**, which allows me to write posts in Markdown for easy updates.
+
+#### New Exercise Proposals
+
+A significant part of the week was dedicated to brainstorming and outlining proposals for new exercises. Two proposals were submitted:
+
+1. **Fundamentals of Image Processing** – Focused on building intuition through hands-on visual tasks like histogram equalization, noise filtering, and contrast enhancement.
+2. **Realistic Robot Vision Scenario** – Aimed at developing perception skills in a simulated robotic environment with more complex, real-world tasks.
+
+Each proposal includes learning objectives, technical requirements, and implementation challenges.
+
+### Goals for Next Week
+
+My primary goal is to finalize the scope of the selected proposal(s) based on feedback from my mentors. Once finalized, I plan to begin preliminary development work on the first exercise.
